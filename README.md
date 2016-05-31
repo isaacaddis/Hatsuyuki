@@ -1,2 +1,9 @@
 # Hatsuyuki
-An e-commerce website template. Free for use.
+
+A brand website template. Optimal for advertising products. E-commerce functionality is not yet provided.
+
+##Files
+
+##Installation Guide
+
+##Developers
