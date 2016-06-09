@@ -6,7 +6,7 @@ Note: The name of the template, `Hatsuyuki`, means "first snow" in Japanese. Thi
 
 ##Files
 
-##Installation Guide
+##Install Guide
 
 1. Clone the repository or download the repo as a ZIP file (remember to extract the folder)
 2. Open index.html in your browser
