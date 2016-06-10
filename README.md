@@ -14,7 +14,7 @@ Note: The name of the template, `Hatsuyuki`, means "first snow" in Japanese. Thi
 **Note**: Open the folder in your favorite text editor (ex: Sublime Text, Notepad++. Notepad is fine too.). The entire template is heavily commented, so as you customize your information, it is a good practice to remove these comments as you go.
 
 ##Demo
-Please visit [www.isaacaddis.github.io/hatsuyuki](www.isaacaddis21/hatsuyuki)
+Please visit [www.isaacaddis.github.io/HatsuYuki](www.isaacaddis21/HatsuYuki)
 
 
 
