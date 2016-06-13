@@ -6,6 +6,25 @@ Note: The name of the template, `Hatsuyuki`, means "first snow" in Japanese. Thi
 
 ##Files
 
+.
++-- css
+|   +-- animate.css
+|   +-- bulma.css
+|   +-- bulma.css.map
+|   +-- bulma.min.css
+|   +-- bulma.min.css.map
+|   +-- style.css
++-- images
+|   +-- generic_macbook.png
+|   +-- placeholder.jpg
++-- js
+|   +-- bulma.js
+|   +-- custom.js
+|   +-- jquery-2.2.0-min.js
++-- index.html
++-- page1.html
++-- LICENSE
+
 ##Install Guide
 
 1. Clone the repository or download the repo as a ZIP file (remember to extract the folder)
