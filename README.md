@@ -4,6 +4,10 @@ A brand website template designed by Isaac Addis (www.github.com/isaacaddis) usi
 
 Note: The name of the template, `Hatsuyuki`, means "first snow" in Japanese. This name was chosen because it is my favorite Japanese word and because the design is clean (like snow).
 
+
+![Screenshot](https://i.imgsafe.org/d89884f4b9.png "Hatsuyuki Screenshot")
+
+
 ##Files
 ```
 .
